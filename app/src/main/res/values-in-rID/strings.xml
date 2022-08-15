@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test Pertama</string>
+    <string name="time_reamining">Waktu Tinggal %d</string>
+    <string name="click_me">Klik Aku!</string>
+    <string name="next">Selanjutnya</string>
+    <string name="snackBar">BarUlar</string>
+    <string name="toast">Roti Panggang</string>
+    <string name="start">Mulai</string>
+    <string name="stop">Berhenti</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">first_test</string>
+    <string name="time_reamining">Time Reamining: %d</string>
+    <string name="click_me">Click Me!</string>
+    <string name="next">Next</string>
+    <string name="snackBar">SnackBar</string>
+    <string name="toast">Toast</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
